@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CalendarView">
+        <attr name="textSize" format="integer" />
+        <attr name="textColor" format="color" />
+        <attr name="titleTextSize" format="integer" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="checkTextColor" format="color" />
+        <attr name="checkTextBgColor" format="color" />
+        <attr name="leftImg" format="reference" />
+        <attr name="rightImg" format="reference" />
+        <attr name="rightHintImg" format="reference" />
+    </declare-styleable>
+
+</resources>
